@@ -37,8 +37,8 @@
                 {
                     "type": "file",
                     "only-arches": ["x86_64"],
-                    "url": "file:///ram/signal-desktop_1.7.0-beta.2_amd64.deb",
-                    "sha256": "06f2ac8995c55f8e156707a2964bc62f0e8d5a5619bb5fe884bd7fc5ee1046e4"
+                    "url": "file:///ram/signal-desktop_1.7.0-beta.3_amd64.deb",
+                    "sha256": "ffa3d1358cdae04d9d3a3568b49d39cc506f2564c78e97c10896ca7d1ee6daf4"
                 },
                 {
                     "type": "script",
